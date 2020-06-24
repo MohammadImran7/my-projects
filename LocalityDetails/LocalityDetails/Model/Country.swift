@@ -9,9 +9,7 @@
 import Foundation
 
 struct Country {
-   
     let title: String?
-    
     init(title: String?) {
         self.title = title
     }
